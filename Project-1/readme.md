@@ -1,5 +1,5 @@
 # Project 1 - NO-Contact Infrared Thermometer
-![thermometer](https://github.com/KJSashank/Task-1/blob/master/Task%201.12.jpg)
+![thermometer](https://github.com/KJSashank/Task-1/blob/master/Project-1/Task%201.12.jpg)
 
 ![circuit](https://github.com/KJSashank/Task-1/blob/master/task%201.1.jpg)
 
