@@ -22,27 +22,34 @@ We use 3d printed parts to build a physical gun kind thermometer, which gives th
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
 
 const int Laser_Pin=5;  //Laser Pin
+
 int buttonState = 0; 
+
 const int buttonPin = 2;     // the number of the pushbutton pin
 
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
+
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 Adafruit_MLX90614 mlx = Adafruit_MLX90614();
 
 void setup() {
-  Serial.begin(9600);
-  Serial.println("Adafruit MLX90614 test"); 
+
+Serial.begin(9600);
+
+Serial.println("Adafruit MLX90614 test"); 
   
   pinMode(Laser_Pin,OUTPUT);
-  pinMode(buttonPin, INPUT);
+
+pinMode(buttonPin, INPUT);
   
   if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) { // Address 0x3D for 128x64
-    Serial.println(F("SSD1306 allocation failed"));
-    for(;;);
+
+Serial.println(F("SSD1306 allocation failed"));
+
+for(;;);
   }
   
-
   display.clearDisplay();
   
   display.setRotation(2);
@@ -110,8 +117,8 @@ void loop() {
   
   display.display();
   
-    
-  } else {
+   }
+    else {
     // turn LED off:
   
   digitalWrite(Laser_Pin, LOW);
