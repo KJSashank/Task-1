@@ -1,7 +1,7 @@
 # Project 1 - NO-Contact Infrared Thermometer
 ![thermometer](https://github.com/KJSashank/Task-1/blob/master/Project-1/Task%201.12.jpg)
 
-![circuit](https://github.com/KJSashank/Task-1/blob/master/task%201.1.jpg)
+![circuit](https://github.com/KJSashank/Task-1/blob/master/Project-1/task%201.11.jpg)
 
 Materials - Arduino Nano,touch button, resistance (5K ohm, 200 ohm), 5V laser emitter, dual control switch, OLED 0.96 "screen, GY-906 temperature MLX90614 sensor, 9V battery
 
