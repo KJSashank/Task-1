@@ -39,13 +39,21 @@ void setup() {
   
 
   display.clearDisplay();
+  
   display.setRotation(2);
+  
   display.setTextSize(1);
+  
   display.setTextColor(WHITE);
+  
   display.setCursor(0, 35);
+  
   display.println("Initializing Temp");
+  
   display.display();
+  
   delay(250);
+  
   display.clearDisplay();
 
   mlx.begin(); 
@@ -55,51 +63,84 @@ void setup() {
 void loop() {
 
   buttonState = digitalRead(buttonPin);
+  
   Serial.println(buttonState);
   
   Serial.print("Ambient = "); Serial.print(mlx.readAmbientTempC()); 
+  
   Serial.print("*C\tObject = "); Serial.print(mlx.readObjectTempC()); Serial.println("*C");
+  
   Serial.print("Ambient = "); Serial.print(mlx.readAmbientTempF()); 
+  
   Serial.print("*F\tObject = "); Serial.print(mlx.readObjectTempF()); Serial.println("*F");
   
   // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  
   if (buttonState == HIGH) {
     // turn LED on:
-    digitalWrite(Laser_Pin, HIGH);
-    display.clearDisplay();
-    display.setTextSize(2);  //Size 2 means each pixel is 12 width and 16 high
-    display.setCursor(25, 10);
-    display.print(mlx.readObjectTempC());
-    display.setCursor(95, 10);
-    display.print("C");
-    display.setTextSize(2);
-    display.setCursor(25, 36);
-    display.print(mlx.readObjectTempF());
-    display.setCursor(95, 36);
-    display.print("F");
-    display.display();
-    
+  
+  digitalWrite(Laser_Pin, HIGH);
+  
+  display.clearDisplay();
+  
+  display.setTextSize(2);  //Size 2 means each pixel is 12 width and 16 high
+  
+  display.setCursor(25, 10);
+  
+  display.print(mlx.readObjectTempC());
+  
+  display.setCursor(95, 10);
+  
+  display.print("C");
+  
+  display.setTextSize(2);
+  
+  display.setCursor(25, 36);
+  
+  display.print(mlx.readObjectTempF());
+  
+  display.setCursor(95, 36);
+  
+  display.print("F");
+  
+  display.display();
+  
     
   } else {
     // turn LED off:
-    digitalWrite(Laser_Pin, LOW);
-    display.clearDisplay();
-    display.setTextSize(2);  //Size 2 means each pixel is 12 width and 16 high
-    display.setCursor(35, 10);
-    display.print("-----");
-    display.setCursor(105, 10);
-    display.print("");
-    display.setTextSize(2);
-    display.setCursor(35, 36);
-    display.print("-----");
-    display.setCursor(105, 36);
-    display.print("");
-    display.display();
-    
-    
-  }
+  
+  digitalWrite(Laser_Pin, LOW);
+  
+  display.clearDisplay();
+  
+  display.setTextSize(2);  //Size 2 means each pixel is 12 width and 16 high
+  
+  display.setCursor(35, 10);
+  
+  display.print("-----");
+  
+  display.setCursor(105, 10);
+  
+  display.print("");
+  
+  display.setTextSize(2);
+  
+  display.setCursor(35, 36);
+  
+  display.print("-----");
+  
+  display.setCursor(105, 36);
+  
+  display.print("");
+  
+  display.display();
+  
+    }
 
-  Serial.println();
-  delay(500);
+  
+ Serial.println();
+ 
+ delay(500);
 }
+
 
