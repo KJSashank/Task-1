@@ -107,8 +107,15 @@ void loop() {
   delay(500);
 }
 
+
 # Project 2 - PID based line following bot 
-A bot with 2 mtors on left and right side which follows a line sensed by QTR sensor. The errors are used wrt PID controller and the volocities of each wheel are given. The sensor pins arefrpm analog 0-5 of the arduino.
+
+A bot with 2 mtors on left and right side which follows a line sensed by QTR sensor. The errors are used wrt PID controller and the volocities of each wheel are given. The sensor pins are in analog 0-5 of the arduino.
+
+	
+Components- N20 Micro Metal Geared Motor 12V 300 RPM, QTR sensor , Arduino Uno
+
+Code:
 
 #include <AFMotor.h>    //Adafruit Motor Shield Library. First you must download and install AFMotor library
 #include <QTRSensors.h> //Pololu QTR Sensor Library. First you must download and install QTRSensors library
