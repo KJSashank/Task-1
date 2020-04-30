@@ -1,6 +1,6 @@
 # Task-1
 Elec club tasks
-# project 1 - NO-Contact Infrared Thermometer
+# Project 1 - NO-Contact Infrared Thermometer
 ![thermometer](https://github.com/KJSashank/Task-1/blob/KJSashank-patch-1/Task%201.12.jpg)
 
 ![circuit](https://github.com/KJSashank/Task-1/blob/KJSashank-patch-1/task%201.1.jpg)
