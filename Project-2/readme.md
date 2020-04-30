@@ -10,9 +10,11 @@ N20 Micro Metal Geared Motor 12V 300 RPM, QTR sensor , Arduino Uno
 ## Code:
 
 #include <AFMotor.h>    //Adafruit Motor Shield Library. First you must download and install AFMotor library
+
 #include <QTRSensors.h> //Pololu QTR Sensor Library. First you must download and install QTRSensors library
   
 AF_DCMotor motor1(1, MOTOR12_1KHZ ); //create motor #1 using M1 output on Motor Drive Shield, set to 1kHz PWM frequency
+
 AF_DCMotor motor2(2, MOTOR12_1KHZ ); //create motor #2 using M2 output on Motor Drive Shield, set to 1kHz PWM frequency
 
 
