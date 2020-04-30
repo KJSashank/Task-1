@@ -1,8 +1,8 @@
 # Task-1
 Elec club tasks
 # project 1 - NO-Contact Infrared Thermometer
-Task 1.12.jpg
-task 1.1.jpg
+![thermometer](Task 1.12.jpg)
+![circuit](task 1.1.jpg)
 
 Materials - Arduino Nano,touch button, resistance (5K ohm, 200 ohm), 5V laser emitter, dual control switch, OLED 0.96 "screen, GY-906 temperature MLX90614 sensor, 9V battery
 
