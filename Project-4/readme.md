@@ -6,4 +6,4 @@ Arduino Nano, LDR sensor , 10 k ohm resistor, python
 ## Circuit
 ![Circuit](https://github.com/KJSashank/Task-1/blob/master/Project-4/Dinogame.png)
 ### Game
-![Game](https://github.com/KJSashank/Task-1/blob/master/Project-4/Dinogame.png)
+![Game](https://github.com/KJSashank/Task-1/blob/master/Project-4/dinogame.gif)
