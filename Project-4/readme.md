@@ -5,3 +5,5 @@ An LDR sensor senses if the black colour is of enough percentage on the monitor 
 Arduino Nano, LDR sensor , 10 k ohm resistor, python
 ## Circuit
 ![Circuit](https://github.com/KJSashank/Task-1/blob/master/Project-4/Dinogame.png)
+### Game
+![Game]()
