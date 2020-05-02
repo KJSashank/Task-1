@@ -4,6 +4,6 @@ When a visitor moves in range of the ultrasonic sensor, the RPi detects and soun
 ## Materials - 
 Raspberry Pi Zero, Ultrasonic Sensor - HC-SR04 (Generic), Breadboard (generic),	 Buzzer, 1N4007 – High Voltage, High Current Rated Diode	, General Purpose Transistor NPN, Resistor 1k ohm	, Through Hole Resistor, 150 ohm, leds
 ## Circuit - 
-![circuit]()
+![circuit](https://github.com/KJSashank/Task-1/blob/master/Project-10/DoorbellRPi_circuit.PNG)
 ### What I Learnt?
 Basics of Raspberry Pi and utilisation of servers to access email.
