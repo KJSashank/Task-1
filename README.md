@@ -38,7 +38,7 @@ Elec club tasks
 
 [ Project 18 - Goal-Line Technology ](https://github.com/KJSashank/Task-1/tree/master/Project-18)
 
-[ Project 19 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-19)
+[ Project 19 - Talking Smart Glass for the Blind ](https://github.com/KJSashank/Task-1/tree/master/Project-19)
 
 [ Project 20 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-20)
 
