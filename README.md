@@ -34,9 +34,9 @@ Elec club tasks
 
 [ Project 16 - Live Potrait using RPi ](https://github.com/KJSashank/Task-1/tree/master/Project-16)
 
-[ Project 17 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-17)
+[ Project 17 - Face detection using RPi adn openCV ](https://github.com/KJSashank/Task-1/tree/master/Project-17)
 
-[ Project 18 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-18)
+[ Project 18 - Goal-Line Technology ](https://github.com/KJSashank/Task-1/tree/master/Project-18)
 
 [ Project 19 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-19)
 
