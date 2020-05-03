@@ -40,7 +40,7 @@ Elec club tasks
 
 [ Project 19 - Talking Smart Glass for the Blind ](https://github.com/KJSashank/Task-1/tree/master/Project-19)
 
-[ Project 20 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-20)
+[ Project 20 - Fingertap Sounds ](https://github.com/KJSashank/Task-1/tree/master/Project-20)
 
 [ Project 21 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-21)
 
