@@ -32,7 +32,7 @@ Elec club tasks
 
 [ Project 15 - Controlling Raspberry Pi using Alexa ](https://github.com/KJSashank/Task-1/tree/master/Project-15)
 
-[ Project 16 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-16)
+[ Project 16 - Live Potrait using RPi ](https://github.com/KJSashank/Task-1/tree/master/Project-16)
 
 [ Project 17 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-17)
 
