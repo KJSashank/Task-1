@@ -48,6 +48,6 @@ Elec club tasks
 
 [ Project 23 - Air Quality Check ](https://github.com/KJSashank/Task-1/tree/master/Project-23)
 
-[ Project 24 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-24)
+[ Project 24 - Water Quality Monitoring  ](https://github.com/KJSashank/Task-1/tree/master/Project-24)
 
-[ Project 25 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-25)
+[ Project 25 - Universal Geasture Control Remote ](https://github.com/KJSashank/Task-1/tree/master/Project-25)
