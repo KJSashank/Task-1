@@ -8,3 +8,4 @@ Arduino Nano, LDR sensor , 10 k ohm resistor, python
 ### Game
 ![Game](https://github.com/KJSashank/Task-1/blob/master/Project-4/dinogame.gif)
 ### What I Learnt?
+Basics of pyserial and pyautogui, about LDR sensor
