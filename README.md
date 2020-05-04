@@ -42,9 +42,9 @@ Elec club tasks
 
 [ Project 20 - Fingertap Sounds ](https://github.com/KJSashank/Task-1/tree/master/Project-20)
 
-[ Project 21 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-21)
+[ Project 21 - Flexuino Pulse monitor ](https://github.com/KJSashank/Task-1/tree/master/Project-21)
 
-[ Project 22 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-22)
+[ Project 22 - RFID Door Lock ](https://github.com/KJSashank/Task-1/tree/master/Project-22)
 
 [ Project 23 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-23)
 
