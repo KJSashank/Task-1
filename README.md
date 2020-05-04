@@ -46,7 +46,7 @@ Elec club tasks
 
 [ Project 22 - RFID Door Lock ](https://github.com/KJSashank/Task-1/tree/master/Project-22)
 
-[ Project 23 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-23)
+[ Project 23 - Air Quality Check ](https://github.com/KJSashank/Task-1/tree/master/Project-23)
 
 [ Project 24 - NO contact IR Thermometer ](https://github.com/KJSashank/Task-1/tree/master/Project-24)
 
