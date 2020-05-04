@@ -4,3 +4,4 @@ Making a Geasture controlled car using PAJ7620 Gesture Sensor with arduino uno a
 ## Materials -
 Robot Chassis, HC12, arduino uno, arduino nano, PAJ7620 Gesture Sensor
 ### What I Learnt?
+About HC-12 wireless module and PAJ7620 Gesture Sensor,  //a big project 
